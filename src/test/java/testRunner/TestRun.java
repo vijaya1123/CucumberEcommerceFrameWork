@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 
 (
 		
-		features = ".//Features/Login.feature",
+		features = ".//Features/AddProduct.feature",
 		glue = "stepDefinitions",
 		dryRun = false,
 		monochrome =true,
